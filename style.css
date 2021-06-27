@@ -1,3 +1,7 @@
+html {
+  min-width:940px;
+
+}
 body {
   text-align: center;
   font-size: 20px;
