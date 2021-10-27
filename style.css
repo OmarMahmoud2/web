@@ -89,12 +89,11 @@ hr{
 
   
 
-h1{
+h1 {
   color: #66BFBF;
-  font-family: cursive;
-  text-align: center;
-  font-size: 5.6em;
-
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
 }
 
 h3{
